@@ -8,5 +8,7 @@
 
 import Foundation
 
-print(euler019())
+print(euler022(fileName: "p022_names.txt"))
+
+//print(euler022(fileName: "p022_names.txt"))
 
