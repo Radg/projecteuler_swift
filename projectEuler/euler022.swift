@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  euler022.swift
 //  projectEuler
 //
 //  Created by Radic on 06/03/2019.
@@ -7,6 +7,3 @@
 //
 
 import Foundation
-
-print(euler019())
-
